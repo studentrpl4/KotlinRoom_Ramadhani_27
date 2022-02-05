@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KotlinRoom_Ramadhani_27</string>
+    <string name="simpan">Simpan</string>
+    <string name="update">Update</string>
+    <string name="save">Save</string>
+    <string name="desc_genre">Desc-genre</string>
+    <string name="judul_komik">Judul Komik</string>
+    <string name="tambah_komik">Tambah Komik</string>
+    <string name="jenis_genre_desc">jenis/genre/desc</string>
+    <string name="tambah_comic">Tambah Comic</string>
+    <string name="judul_comic">Judul Comic</string>
+</resources>
